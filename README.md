@@ -27,3 +27,7 @@ Softwares and Applications
 - Xilinx Vivado 
 - Jupyter Notebook
 - Latex
+
+
+**DISCLAIMER**
+These are only the basic requirements for the students starting the project. Learners are encouraged to not limit themselves to only these mentioned resources or information. 
