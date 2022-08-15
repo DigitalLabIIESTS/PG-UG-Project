@@ -1,4 +1,4 @@
-# PG-UG-Project - Basic Requirements
+# PG-UG Project - Basic Requirements
 
 AI/DL/ML/CNN/DNN
 - [Coursera - Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
@@ -19,6 +19,9 @@ Verilog
 Reading and Writing Research Papers
 - [Reading a Research Paper](https://www.youtube.com/watch?v=733m6qBH-jI)
 - [Writing a Research Paper](https://tealfeed.com/write-research-paper-0iavt)
+
+FPGAs
+- [ZYNQ Ultrascale+ & Petalinux](https://www.youtube.com/watch?v=WyVLb0ykaF4&list=PL9GWVTghqmkIfkk1FtxaAtb2y5BIAP2I7)
 
 Other Coding
 - [freeCodeCamp.org](https://youtube.com/c/Freecodecamp)
