@@ -24,7 +24,7 @@ FPGAs
 - [ZYNQ Ultrascale+ & Petalinux](https://www.youtube.com/watch?v=WyVLb0ykaF4&list=PL9GWVTghqmkIfkk1FtxaAtb2y5BIAP2I7)
 
 Other Coding
-- [freeCodeCamp.org](https://youtube.com/c/Freecodecamp)
+- You Tube - [freeCodeCamp.org](https://youtube.com/c/Freecodecamp)
 
 Softwares and Applications
 - Xilinx Vivado 
