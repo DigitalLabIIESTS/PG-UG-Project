@@ -35,6 +35,7 @@ Books To Follow
 - [Digital Signal Processing with Field Programmable Gate Arrays](https://link.springer.com/book/10.1007/978-3-662-06728-4) by Uwe Meyer-Baese 
 - [Digital Arithmetic](https://www.sciencedirect.com/book/9781558607989/digital-arithmetic) by Miloš D. Ercegovac and Tomás Lang 
 - [Verilog: Frequently Asked Questions](https://link.springer.com/book/10.1007/b99857)
+- VLSI Digital Signal Processing Systems Design and Implementation by Keshab K. Parhi
 
 #### DISCLAIMER
 These are only the basic requirements for the students starting the project. Learners are encouraged to not limit themselves to only these mentioned resources or information. 
