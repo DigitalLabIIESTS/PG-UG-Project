@@ -28,7 +28,7 @@ Other Coding
 - You Tube - [freeCodeCamp.org](https://youtube.com/c/Freecodecamp)
 
 Softwares and Applications
-- [Xilinx XUP Resources](https://github.com/xupgit?tab=repositories)
+- [Xilinx University Program Resources](https://github.com/xupgit?tab=repositories)
 - Xilinx Vivado 
 - Jupyter Notebook
 - Latex
