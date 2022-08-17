@@ -5,6 +5,7 @@ AI/DL/ML/CNN/DNN
 - [deeplizard](https://youtube.com/c/deeplizard)
 - [DigitalSreeni](https://youtube.com/c/DigitalSreeni)
 - [Aladdin Persson](https://www.youtube.com/c/AladdinPersson)
+- [ML Mathematical Notations](https://nthu-datalab.github.io/ml/slides/Notation.pdf)
 
 Hardware for DNN
 - [Efficient Methods and Hardware for Deep Learning](https://www.youtube.com/watch?v=eZdOkDtYMoo)
