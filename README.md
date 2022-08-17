@@ -28,9 +28,11 @@ Other Coding
 - You Tube - [freeCodeCamp.org](https://youtube.com/c/Freecodecamp)
 
 Softwares and Applications
+- [Xilinx XUP Resources](https://github.com/xupgit?tab=repositories)
 - Xilinx Vivado 
 - Jupyter Notebook
 - Latex
+
 
 Books To Follow
 - [Digital Signal Processing with Field Programmable Gate Arrays](https://link.springer.com/book/10.1007/978-3-662-06728-4) by Uwe Meyer-Baese 
