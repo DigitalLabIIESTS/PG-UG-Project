@@ -18,8 +18,8 @@ Verilog
 - [VLSI Front End](https://github.com/BinitPandit94/VLSI-Front-End)
 
 Reading and Writing Research Papers
-- [Reading a Research Paper](https://www.youtube.com/watch?v=733m6qBH-jI)
-- [Writing a Research Paper](https://tealfeed.com/write-research-paper-0iavt)
+- [Reading a Research Paper](https://binitpandit94.github.io/Blogs/ReadResearchPaper.html)
+- [Writing a Research Paper](https://binitpandit94.github.io/Blogs/WritingResearchPaper.html)
 
 FPGAs
 - [ZYNQ Ultrascale+ & Petalinux](https://www.youtube.com/watch?v=WyVLb0ykaF4&list=PL9GWVTghqmkIfkk1FtxaAtb2y5BIAP2I7)
